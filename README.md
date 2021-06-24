@@ -6,7 +6,7 @@
 <li> Short-comings of this dataset: Highly unbalanced records and un-fair distribution of values, which results in comparatively lower accuracy. </li>
 <br>
 <b>TO-DO: </b>
-<br><br>
+<br>
 <li> Gradient boosting algorithms</li>
 <li> PCA </li>
 <li> Various other regression algorithms like: Ridge, Lasso, Neural network</li>
