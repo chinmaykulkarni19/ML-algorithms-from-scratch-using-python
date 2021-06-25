@@ -20,6 +20,9 @@
 <br>
 (8) [Principal Component Analysis (PCA)](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/(8)%20PCA.ipynb)
 <br><br>
+Other things that are implemented:
+(1) [Normalization techniques](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/normalization_techniques.ipynb): Min-Max, Z-score, Decimal Scaling
+<br><br>
 <b>TODO: </b>
 <li> Random forest</li>
 <li> Gradient boosting algorithms</li>
