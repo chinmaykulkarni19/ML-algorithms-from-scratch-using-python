@@ -2,7 +2,7 @@
 <ins>Dataset</ins>: <href>link</href>
 <br><br>
 Algorithms Implemented:
-(1) [Linear Regression ( simple + multiple )](../ML-algorithms-from-scratch-using-python/(1) Linear Regression.ipynb)
+(1) [Linear Regression simple + multiple ](../ML-algorithms-from-scratch-using-python/(1) Linear Regression.ipynb)
 (2) 
 <br><br>
 <b>NOTE: </b>
