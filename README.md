@@ -1,8 +1,8 @@
 # ML-algorithms-from-scratch-using-python
 <ins>Dataset</ins>: <href>link</href>
 <br><br>
-Algorithms Implemented:
-(1) [Linear Regression ( simple + multiple ) ](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/(1) Linear Regression.ipynb)
+Algorithms Implemented:<br><br>
+(1) [Linear Regression ( simple + multiple ) ](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/(1)%20Linear%20Regression.ipynb)
 (2) 
 <br><br>
 <b>NOTE: </b>
