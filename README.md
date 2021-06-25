@@ -1,5 +1,7 @@
 # ML-algorithms-from-scratch-using-python
 [<ins>Dataset</ins>](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/players_20.csv)
+<br>
+[Attributes of the dataset and their description](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/info.xlsx)
 <br><br>
 <b>Algorithms Implemented:</b><br><br>
 (1) [Linear Regression ( simple + multiple ) ](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/(1)%20Linear%20Regression.ipynb)
