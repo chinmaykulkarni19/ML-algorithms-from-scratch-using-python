@@ -4,7 +4,7 @@
 <b>NOTE: </b>
 
 <li> This particular dataset was chosen as it contains various data types(string, integer, float) and very large number of records( approx 19,000 ) and attributes (72)</li>
-<li> Short-comings of this dataset: Highly unbalanced records and un-fair distribution of values.</li>
+<li> Short-comings of this dataset: Highly biased, unbalanced records and un-fair distribution of values.</li>
 <br>
 <b>TODO: </b>
 
