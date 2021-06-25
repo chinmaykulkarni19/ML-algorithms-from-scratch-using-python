@@ -10,4 +10,5 @@
 
 <li> Random forest</li>
 <li> Gradient boosting algorithms</li>
-<li> Various other regression algorithms like: Ridge, Lasso, Neural network</li>
+<li> Various other regression algorithms like: Ridge, Lasso</li>
+<li> Artificial Neural network</li>
