@@ -1,7 +1,7 @@
 # ML-algorithms-from-scratch-using-python
 <ins>Dataset</ins>: <href>link</href>
 <br><br>
-<ins>Algorithms Implemented:<ins><br><br>
+<b>Algorithms Implemented:</b><br><br>
 (1) [Linear Regression ( simple + multiple ) ](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/(1)%20Linear%20Regression.ipynb)
 <br>
 (2) [Decision Tree ID3](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/(2)%20Decision%20Tree%20ID3.ipynb)
