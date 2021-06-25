@@ -18,10 +18,6 @@
 <br>
 (8) [Principal Component Analysis (PCA)](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/(8)%20PCA.ipynb)
 <br><br>
-<b>NOTE: </b>
-<li> This particular dataset was chosen as it contains various data types(string, integer, float) and very large number of records( approx 19,000 ) and attributes (72)</li>
-<li> Short-comings of this dataset: Highly biased, unbalanced records.</li>
-<br><br>
 <b>TODO: </b>
 <li> Random forest</li>
 <li> Gradient boosting algorithms</li>
