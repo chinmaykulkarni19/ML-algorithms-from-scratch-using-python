@@ -21,9 +21,11 @@
 (8) [Principal Component Analysis (PCA)](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/(8)%20PCA.ipynb)
 <br><br>
 Other things that are implemented:<br><br>
-(1) [Normalization techniques](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/normalization_techniques.ipynb): Min-Max, Z-score, Decimal Scaling
+(1) [EDA ( Exploratory Data Analysis )](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/EDA.ipynb)
 <br>
-(2) [Numeric similarity measures](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/numeric_similarity_measures.ipynb): Euclidean , Manhattan ,  Supremum , Mahalanobis
+(2) [Normalization techniques](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/normalization_techniques.ipynb): Min-Max, Z-score, Decimal Scaling
+<br>
+(3) [Numeric similarity measures](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/numeric_similarity_measures.ipynb): Euclidean , Manhattan ,  Supremum , Mahalanobis
 <br><br>
 <b>TODO: </b>
 <li> Random forest</li>
