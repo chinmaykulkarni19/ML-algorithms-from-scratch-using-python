@@ -22,6 +22,8 @@
 <br><br>
 Other things that are implemented:<br><br>
 (1) [Normalization techniques](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/normalization_techniques.ipynb): Min-Max, Z-score, Decimal Scaling
+<br>
+(2) [Numeric similarity measures](https://github.com/riya-joshi-401/ML-algorithms-from-scratch-using-python/blob/main/numeric_similarity_measures.ipynb): Euclidean , Manhattan ,  Supremum , Mahalanobis
 <br><br>
 <b>TODO: </b>
 <li> Random forest</li>
